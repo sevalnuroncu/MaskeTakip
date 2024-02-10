@@ -1,6 +1,6 @@
-Business/bin/Debug/net8.0
-Business/obj
-Entities/bin/Debug/net8.0
-Entities/obj
-Workaround/bin/Debug/net8.0
-Workaround/obj
+Business/bin/Debug/net8.0/
+Business/obj/
+Entities/bin/Debug/net8.0/
+Entities/obj/
+Workaround/bin/Debug/net8.0/
+Workaround/obj/
